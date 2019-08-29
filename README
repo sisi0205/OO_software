@@ -1,0 +1,29 @@
+Name: Lisi Wang
+
+Course: CpSc 8700
+
+Clemson Email Address: lisiw@clemson.edu
+
+Project Number 8
+
+Project due date: Aug 4th
+
+Brief Review of Project description as stated in my Specification 
+for the Project:
+
+  Build a simple molecular dynamic APP in 2D for noble atoms by using Tkinter and pygame
+
+
+The easiest part of this project:
+
+  Build the the buttons and labels for the project
+
+Problems that I had in completing this project:
+
+  1. It doesn't work in the Linux operating system.
+  2. I didn't implement the constant temperature and constant volume feature in my app, because I don't have enough time to do that. 
+  
+
+
+
+

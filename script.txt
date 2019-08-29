@@ -1,0 +1,21 @@
+1. Build button: a. Enter the number of frames you want which in range 3~4000
+                 b. Enter the number of molecules, which in range 3~50
+                 c. Enter the temperature, which in range 0~1000
+                 d. Choose the type of atom you want to simulate.
+                 e. After you finished the setting of parameter, you need click the "Submit" button to submit your setting information
+                 f. Every parameter has it's default value. If you forget to set the parameter, don't be panic, you still can run the situation. 
+
+2. List box will display the parameters you set. 
+
+3. You can click the "Stop" button to stop the simulation and "Continue" button to continue the simulation. 
+
+4. The molecules are moving very slow, that because there exist forces between the molecules. Here I just used the simplest LJ potential. Click the "Analysis" and choose "Display Potential Curve", you will see what the potential function looks like. 
+
+5.You can save the the picture 
+
+6. If you want to know how energy changes with time, you can use "Energy of Current running Trajectory" under the "Analysis" button to display the Energy curve. 
+
+7. In the "File" button, you can "Save Current Energy" and "Save Current Coord".
+ 
+8. You can use the "Load Trajectory" under the "File" button to load the trajectory. Also can you display the energy curve from the file by click the "Plot Energy from file" under the "Analysis" button. 
+
